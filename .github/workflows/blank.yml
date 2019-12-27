@@ -1,0 +1,15 @@
+name: CI
+on: [push]
+
+jobs:
+  build:
+    name: Build and Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@master
+      - name: Zola Deploy to Pages
+        uses: shalzz/zola-deploy-action@v0.9.0
+    env:
+      PAGES_BRANCH: master
+      TOKEN: ${{ secrets.Token }}
