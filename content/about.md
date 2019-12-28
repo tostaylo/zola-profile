@@ -13,4 +13,4 @@ Outside of work I
 - Founded and co-organize the Austin Web Performance Meetup
 - Build things in Rust, Typescript, React, and C#
 
-![Profile Pic](/static/torre2018ProfilePic-min.jpg 'Profile Pic')
+![Profile Pic](/torre_bw.jpg 'Profile Pic')
