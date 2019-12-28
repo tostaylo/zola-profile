@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>https://tostaylo.github.io/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://tostaylo.github.io/about/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://tostaylo.github.io/posts/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://tostaylo.github.io/posts/first/</loc>
+            
+                <lastmod>2019-01-01</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://tostaylo.github.io/tags/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://tostaylo.github.io/tags/post/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://tostaylo.github.io/tags/some/</loc>
+            
+        </url>
+    
+</urlset>
