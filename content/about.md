@@ -5,11 +5,12 @@ title = "About"
 no_header = true
 +++
 
-This is a [Zola][zola] port of [Sam theme][original] for [Hugo][hugo].
+I am currently a Senior Software Developer at CoStar Group in Austin, TX where I write and mantain web applications.
 
-See the [repository][repository] for information on how to set it up.
+Outside of work I
 
-[zola]: https://getzola.org
-[original]: https://github.com/victoriadotdev/hugo-theme-sam
-[hugo]: https://gohugo.io
-[repository]: https://github.com/janbaudisch/zola-sam
+- Am taking courses to attain a computer science master's degree from Harvard Extension.
+- Founded and co-organize the Austin Web Performance Meetup
+- Build things in Rust, Typescript, React, and C#
+
+![Profile Pic](/static/torre2018ProfilePic-min.jpg 'Profile Pic')
